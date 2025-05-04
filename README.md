@@ -1,5 +1,3 @@
-Here's a neat and well-structured README for your quiz application:
-
 ---
 
 # 🎯 **Advanced Quiz Application**
@@ -149,5 +147,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Made with ❤️ and Python
 
 ---
-
-This format is clear, concise, and provides all necessary information for both users and developers.
