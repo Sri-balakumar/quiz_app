@@ -1,6 +1,6 @@
 ---
 
-# 🎯 **Advanced Quiz Application**
+# 🎯 **Quiz Application**
 
 A modern, feature-rich quiz application built with Python and tkinter/ttkbootstrap, offering a complete quiz experience with user authentication, timed questions, score tracking, and an interactive user interface.
 
